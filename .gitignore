@@ -1,0 +1,6 @@
+node_moduels/
+.cache/
+dist/
+coverage/
+.vscode/
+.env

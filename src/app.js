@@ -46,7 +46,7 @@ const App = () => {
         </header>
         ;
         <Router>
-          <SearchParams path="./SearchParams" />
+          <SearchParams path="/" />
           <Details path="/details/:id" />
         </Router>
       </div>
